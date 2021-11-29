@@ -1,0 +1,18 @@
+{
+  "name": "docs.sdp.arup.com",
+  "version": "0.0.1",
+  "description": "Structural Data Platform documentation",
+  "main": "index.js",
+  "contributors": [
+    "Yun Sung <yun.sung@arup.com>"
+  ],
+  "repository": "https://github.com/arup-group/sdp-docs",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
