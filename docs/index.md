@@ -17,7 +17,7 @@ Measuring structural performance as a function over time, economic and environme
 This idea has been attempted in Arup however barriers such as data inconsistency and slow adoption of structured workflows remains rooted and hinder progress. Several global workstreams were created in response; Speckle for data interoperability, Total Design Automation for workflow automation, Digital Design Brief for storing and validating data, etc. The global impetus to change how we work with data gave East Asia region the right environment to develop a data platform for harvesting and harnessing structural analysis data. 
 
 
-:::
+::: tip characteristic of the structural data platform
 A key characteristic of the structural data platform is its tool adoption. Its core platform is entirely made of several global automation workstreams:
 
 - Speckle (Speckle is a platform for transmitting data from one workflow to another workflow in a common intermediate format)
