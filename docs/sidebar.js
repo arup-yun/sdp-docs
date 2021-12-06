@@ -3,8 +3,5 @@ module.exports = [{
     collapsable: false,
     path: '/',
     children: [
-        '/getting-started',
-        '/high-level-arch',
-        '/roadmap',
     ]
 }]
