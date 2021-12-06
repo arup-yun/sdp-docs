@@ -38,31 +38,6 @@ module.exports = {
         text: "Overview",
         link: '/',
       },
-      {
-        text: 'Workflow Development',
-        link: '/workflow_dev/',
-      },
-      {
-        text: 'App Development',
-        link: '/app_dev/',
-      },
-      // {
-      //   text: 'App API Development',
-      //   link: '/api_dev/',
-      // },
-      {
-        text: 'Platform APIs',
-        link: '/platform_apis/'
-      },
-      {
-        text: 'FAQ\'s & Help',
-        link: '/faq/',
-      },
-      {
-        text: 'About',
-        link: '/about_site/'
-      },
-
     ],
     sidebar,
   },
