@@ -33,7 +33,7 @@ The main functions of the platform include standardising the data stream’s sch
 Finally, the data is aggregated and validated in DDB before being visualised and producing insights for engineers. These processes are completely automated and occur in real time. 
 
 
-## Benefits for Structural Engineers
+## Benefits
 
 The SDP platform brings following benefits to structural engineers across Arup by:
 
@@ -42,3 +42,16 @@ The SDP platform brings following benefits to structural engineers across Arup b
 3. No longer need to manually dig out models from j drive - and you may not even able to open it
 4. ...much more than you can imagine
 
+## Team
+PD : Andrew Mole | andrew.mole@arup.com
+
+PM : Jason Chen | jason.chen@arup.com
+
+Solution Designer: Yun Sung | yun.sung@arup.com
+
+Structural Engineer: Yan-Xin Zhou | yan-xin.zhou@arup
+com
+
+Data Engineer: Toby Evans | toby.evans@arup.com
+
+Developer: Piotr Buda | piotr.buda@arup.com
